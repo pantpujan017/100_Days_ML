@@ -1,6 +1,6 @@
 # 🧠 Machine Learning 100 Days 🚀
 
-Welcome to the **Machine Learning 100 Days** project!  
+Welcome to the **Machine Learning 100 Days** repo!  
 This repository documents a structured and progressive journey through 100 days of learning and implementing machine learning concepts and projects using Python.
 
 ## 📌 Overview
